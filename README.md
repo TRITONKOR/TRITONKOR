@@ -1,4 +1,4 @@
-<img src"github-header-image.png" alt="Hey! I am Lakhotskyi Oleksandr / Frontend developer" />
+![Header](./githunb-header-image.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tritonkor&label=Profile%20views&color=0e75b6&style=flat" alt="tritonkor" /> </p>
 
