@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lakhotskyi Oleksandr</h1>
-<h3 align="center">A junior frontend developer from Ukraine</h3>
+<img src"github-header-image.png" alt="Hey! I am Lakhotskyi Oleksandr / Frontend developer" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tritonkor&label=Profile%20views&color=0e75b6&style=flat" alt="tritonkor" /> </p>
 
