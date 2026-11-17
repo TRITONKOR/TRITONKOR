@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tritonkor&label=Profile%20views&color=0e75b6&style=flat" alt="tritonkor" /> </p>
 
-- 🔭 I’m currently studying at **the College of Natural Sciences and Humanities at UzhNU**
+- 🔭 I’m currently studying at **Uzhhorod University (UzhU)**
 
 - 🌱 I’m currently learning **React, Typescript**
 
